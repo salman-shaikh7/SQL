@@ -1,0 +1,19 @@
+Install Xamp 
+Dbeaver community install
+
+go to file C:\xampp >>>
+
+Run Xamp controller.exe file
+
+start mysql
+
+click on admin to go phpmyadmin
+
+open Dbeaver 
+
+
+localhost/phpmyadmin
+
+
+
+C:\Program Files\PostgreSQL\14
